@@ -14,7 +14,7 @@ let counter; // global counter to clear interval by clicking any element
 
 // Getting the json object (our questions)
 let request = new XMLHttpRequest();
-request.open("GET", "../quiz-qustions.json");
+request.open("GET", "quiz-qustions.json");
 request.send();
 request.onload = function () {
   if (request.readyState === 4 && request.status === 200) {

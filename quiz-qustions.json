@@ -1,0 +1,50 @@
+[
+    {
+        "question":"what's your name",
+        "answer_1":"I'm fine",
+        "answer_2":"I'm 12",
+        "answer_3":"I'm from Egypt",
+        "answer_4":"I'm Amgad",
+        "right":"I'm Amgad"
+    },
+    {
+        "question":"what's your age",
+        "answer_1":"I'm fine",
+        "answer_2":"I'm 12",
+        "answer_3":"I'm from Egypt",
+        "answer_4":"I'm Amgad",
+        "right":"I'm 12"
+    },
+    {
+        "question":"what's your country",
+        "answer_1":"I'm fine",
+        "answer_2":"I'm 12",
+        "answer_3":"I'm from Egypt",
+        "answer_4":"I'm Amgad",
+        "right":"I'm from Egypt"
+    },
+    {
+        "question":"what's your feelings",
+        "answer_1":"I'm fine",
+        "answer_2":"I'm 12",
+        "answer_3":"I'm from Egypt",
+        "answer_4":"I'm Amgad",
+        "right":"I'm fine"
+    },
+    {
+        "question":"one + one = ??",
+        "answer_1":"one",
+        "answer_2":"two",
+        "answer_3":"three",
+        "answer_4":"none of the above",
+        "right":"two"
+    },
+    {
+        "question":"one x one = ??",
+        "answer_1":"one",
+        "answer_2":"two",
+        "answer_3":"three",
+        "answer_4":"none of the above",
+        "right":"one"
+    }
+]
